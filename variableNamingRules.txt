@@ -1,0 +1,8 @@
+* the variable name should be a meaningful
+* alphanumeric characters (A-Z,a-z,0-9)
+* name1 name123 name_1
+* it doesn't allow space and special characters except underscore
+* variable name starts with either letter or underscore
+* Camel Case ==> myName, myVariableName
+* Pascal Case ==> MyName, MyVariableName
+* don't use reserved words as variable name
